@@ -1,0 +1,8 @@
+﻿n;Welcome to  TOPOR Industries (TM) Termlink;
+y;
+n;Do you want to continue? [y/n]:;
+y;
+y;
+n;Attempts Remaining:  X  X  X  X  X;
+y;
+y;
