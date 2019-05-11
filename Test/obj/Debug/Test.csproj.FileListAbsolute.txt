@@ -36,3 +36,13 @@ E:\Projects\C#\Fallout4_Hacking\Test\obj\Debug\Test.csprojAssemblyReference.cach
 E:\Projects\C#\Fallout4_Hacking\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 E:\Projects\C#\Fallout4_Hacking\Test\obj\Debug\Test.exe
 E:\Projects\C#\Fallout4_Hacking\Test\obj\Debug\Test.pdb
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\StartScreen.txt
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\StartScreenv2.txt
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\Words.txt
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\Test.exe.config
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\Test.exe
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\bin\Debug\Test.pdb
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\obj\Debug\Test.exe
+C:\Users\Karol\Source\Repos\toporek3112\Fallout_Hacking_Game\Test\obj\Debug\Test.pdb

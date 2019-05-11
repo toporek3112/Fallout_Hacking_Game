@@ -39,9 +39,9 @@ namespace PasswortRaten
         {
             string[] a = new string[3];
 
-            a[0] = "  " + Eingabe;
+            a[0] = $" {Eingabe}";
             a[1] = "  Entry denied.";
-            a[2] = "  Likeness=" + likeness;
+            a[2] = $"  Likeness= {likeness}";
 
             return a;
         }
